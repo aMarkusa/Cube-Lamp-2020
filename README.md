@@ -1,20 +1,17 @@
 # Lamp-cube (2019)
 
 ## Description
-Cube-shaped dimmable bluetooth lamp. The lamp was intended as a "mood lamp" that shines with a warm and cozy light. User can adjust the brightness via a bluetooth connection.
+Cube-shaped dimmable bluetooth lamp. The lamp was intended as a "mood lamp" that shines with a warm and cozy light. User can adjust the brightness via a bluetooth connection.<br />
+The cube is powered from 230V. A commercial switching-regulator regulates the voltage to 12VDC which is used by the LED-strip. A LM7805-regulator regulates the voltage further to 5V. This 5V powers the microcontroller and bluetooth-module.
+
+### LED-regulation
+The user can adjust the brightness of the LED-strip via any general "bluetooth remote"-app. The values sent from the phone (0-100) gets mapped to PWM-values and sent from the microcontroller to a regulating mosfet. 
+
+### PCB
+PCB designed in EasyEDA and ordered from JLCPCB. Design files in project repository.
 
 ### Frame
 The frame consist of a wooden base and a milk-white shade made out of plexiglass.
-### Working principle
-
-#### Power
-The cube is powered from 230V. A commercial switching-regulator regulates the voltage to 12VDC which is used by the LED-strip. A LM7805-regulator regulates the voltage further to 5V. This 5V powers the microcontroller and bluetooth-module. 
-
-#### LED-regulation
-The user can adjust the brightness of the LED-strip via any general "bluetooth remote"-app. The values sent from the phone gets mapped to PWM-values and sent from the microcontroller to a regulating mosfet. 
-
-#### PCB
-PCB designed in EasyEDA and ordered from JLCPCB. Design files in project repository.
 
 ## Reflections
 This project did not include complicated electronics, but the frame was labour-intensive. Plexi-glass is not the easiest material to work with, especially not without proper equipment.<br /> 
