@@ -16,6 +16,9 @@ The user can adjust the brightness of the LED-strip via any general "bluetooth r
 ### PCB
 PCB designed in EasyEDA and ordered from JLCPCB. Design files in project repository.
 
+### BOM
+BOM is found in the [design files](https://github.com/aMarkusa/Lamp-cube-2020/tree/main/Design%20files) directory.
+
 ### Frame
 The frame consist of a wooden base and a milk-white shade made out of plexiglass.
 
