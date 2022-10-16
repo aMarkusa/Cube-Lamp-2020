@@ -1,4 +1,10 @@
 # Lamp-cube (2019)
+<img src="https://user-images.githubusercontent.com/83133831/196035060-29c6a57c-1257-4648-9477-ba7916541a8c.jpg" width="300" height="400"> <img src="https://user-images.githubusercontent.com/83133831/196035133-bd454760-dcd7-4923-b77e-50767a1ef301.jpg" width="300" height="400"> <img src="https://user-images.githubusercontent.com/83133831/196035552-4c41e62b-9e85-4a97-a68d-88d6f0af84b4.jpg" width="300" height="400">
+
+
+
+
+
 
 ## Description
 Cube-shaped dimmable bluetooth lamp. The lamp was intended as a "mood lamp" that shines with a warm and cozy light. User can adjust the brightness via a bluetooth connection.<br />
